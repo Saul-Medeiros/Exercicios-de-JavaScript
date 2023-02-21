@@ -1,0 +1,18 @@
+body {
+    font: normal 14pt Arial;
+}
+
+input {
+    height: 50px;
+    width: 90px;
+}
+
+mark.bissexto {
+    background-color: greenyellow;
+    color: green;
+}
+
+mark.naobissexto {
+    background-color: rgba(255, 0, 0, 0.562);
+    color: darkred;
+}

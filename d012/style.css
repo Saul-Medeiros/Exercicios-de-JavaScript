@@ -1,0 +1,22 @@
+body {
+    font: normal 14pt Pangolin;
+    background-color: darkgrey;
+    color: rgb(22, 22, 22);
+}
+
+input {
+    height: 50px;
+    width: 100px;
+    transition: 0.2s;
+    color: darkgray;
+    background-color: rgb(22, 22, 22);
+    font: bold 12pt Pangolin;
+}
+
+input:hover {
+    transform: scale(1.2);
+    margin-left: 12px;
+    margin-bottom: 12px;
+    color: rgb(22, 22, 22);
+    background-color: darkgray;
+}

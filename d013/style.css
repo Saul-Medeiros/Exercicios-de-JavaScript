@@ -1,0 +1,27 @@
+body {
+    font: normal 14pt Arial;
+}
+
+input {
+    font-size: 12pt;
+    height: 60px;
+    width: 200px;
+}
+
+mark.aprovado {
+    font-weight: bold;
+    background-color: greenyellow;
+    color: green;
+}
+
+mark.recuperacao {
+    font-weight: bold;
+    background-color: rgba(255, 255, 0, 0.658);
+    color: darkgoldenrod;
+}
+
+mark.reprovado {
+    font-weight: bold;
+    background-color: rgba(255, 0, 0, 0.658);
+    color: darkred;
+}

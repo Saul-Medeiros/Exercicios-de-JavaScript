@@ -1,0 +1,23 @@
+body {
+    font: normal 14pt Arial;
+    background-color: black;
+    color: white;
+}
+
+input {
+    background-color: white;
+    height: 50px;
+    width: 100px;
+    font: italic bold 12pt Arial;
+    transition: 0.2s;
+}
+
+input:hover {
+    background-color: rgb(177, 0, 0);
+    color: #ffffff;
+    transform: scale(1.1);
+}
+
+div#result {
+    margin-top: 20px;
+}

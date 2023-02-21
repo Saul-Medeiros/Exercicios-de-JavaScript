@@ -1,0 +1,13 @@
+body {
+    font: normal 14pt Arial;
+}
+
+input {
+    height: 50px;
+    width: 100px;
+    font: normal 12pt Arial;
+}
+
+div#resp {
+    margin-top: 20px;
+}
